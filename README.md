@@ -1,4 +1,4 @@
-# confianza-instituciones
+# Incrementar la confianza política para aumentar la confianza en el sector privado
 
 Este repositorio contiene los materiales -archivo de datos y código en R- para replicar los análisis del capítulo:
 
